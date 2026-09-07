@@ -55,7 +55,7 @@ An analysis of career, experience, and education requirements across data and AI
 
 서울 지역 데이터 및 AI 직무의 경력, 경력 연차 및 학력 요건을 직무별로 분석한다.
 
-[Tableau Dashboard]([YOUR_TABLEAU_LINK](https://public.tableau.com/app/profile/enkhtuvshin.enkhbat/viz/4_Dashboard_17887931978560/SeoulDataJobMarketDashboard))
+[Tableau Dashboard]([https://public.tableau.com/app/profile/enkhtuvshin.enkhbat/viz/4_Dashboard_17887931978560/SeoulDataJobMarketDashboard]
 
 ![Tableau BI Dashboard](Dashboard1.png)
 ![Tableau BI Dashboard](Dashboard2.png)
